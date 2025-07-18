@@ -8,8 +8,8 @@ This application demonstrates a simple yet complete full-stack product managemen
 
 ## 🌐 Live Project
 
-🚀 **[Click Here to Open the Live Website](https://your-frontend-site.netlify.app)**  
-🧪 **[Click Here to Test the Backend API](https://your-backend-api.onrender.com/api/products)**
+🚀 **[Click Here to Open the Live Website](https://C:\Users\Admin\OneDrive\coveda-api)**  
+🧪 **[Click Here to Test the Backend API](https://C:\Users\Admin\OneDrive\coveda-client)**
 
 > Replace the above URLs with your actual deployment links after hosting.
 
